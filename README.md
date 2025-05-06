@@ -22,12 +22,19 @@ Other: Active Directory, Cisco Routing, VPN, Office 365, Zoom, G-suite
 
 - ## 😄 My work
   https://www.linkedin.com/in/john-moma-ph-d-b0203012/?trk=opento_sprofile_details
-[Resume]JOHN MOMA.pdf
+ [Resume] [JOHN MOMA.pdf](https://github.com/user-attachments/files/20067642/JOHN.MOMA.pdf)
+  
+- ## ⚡ Fun facts:
+I love reading and travelling.
 
+👾 Ransomware attacks have grown so advanced that some now offer “customer service” to help victims pay the ransom.
 
-- ⚡ Fun fact: ...
+🔐 The first computer virus was created in 1986 and was called the Brain — it was actually written to protect software from piracy!
+
+🛡️ Cybersecurity isn't about perfect defense — it's about reducing risk, increasing awareness, and being ready to respond.
+
 
 <!---
-johnmomajr/johnmomajr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+johnmomajr/john-moma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
